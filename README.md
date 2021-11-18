@@ -1,7 +1,14 @@
 # Quantifying political influence on COVID-19 fatality in Brazil
+### Authors: Leandro de Almeida, Pedro Carelli, Daniel Felinto and José Dias do Nascimento Jr
+
+#### Abstract:
+The COVID-19 pandemic affected profoundly all regions in the globe. In Latim America, Brazil was hit in a particularly hard way, with strong criticism directed to the actions of its central government. The effectiveness of individual measures by different governments to curb the pandemics is a current matter of debate and investigation. However, in some countries, such as Brazil and United States, broad political forces have opposed measures believed to be among the most effective, while promoting ineffective treatments. The impact of diffuse political views on the death toll of the pandemic is typically difficult to quantify. However, due to the exacerbated role of this factor in Brazil, we demonstrate here that it is possible to estimate this number for Brazil with a relatively low uncertainty, resulting in an excess of $(245 \pm 59)$ thousand deaths by the end of June 2021, or about $(50 \pm 10)$\% of the total number of deaths. The key parameter allowing this estimation is the inhomogeneity of political support for the central government throughout the national territory, from which we extrapolate to obtain the number of deaths not influenced by this factor. This analysis also reveals the temporal dynamics of such political risk factor in Brazil, showing its increase during 2020 up to dominance in 2021.
+
+
+
+# Quantifying political influence on COVID-19 fatality in Brazil
 Plotting and analysis rouine for COVID19 vs outcome of 2018 Brazil elections.
 
-Authors: Leandro de Almeida, Pedro Carelli, Daniel Felinto and José Dias do Nascimento Jr
 Code: Almeida, L
 
 ### Data Source
