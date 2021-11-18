@@ -27,4 +27,6 @@ W. Cota, “Monitoring the number of COVID-19 cases and deaths in brazil at muni
 
 The fatality data and votes was related in this routine.
 
+![Figura5](https://user-images.githubusercontent.com/30126468/142472434-59e4475d-82ff-4c85-9493-73c19a89373b.png)
+
 # #
