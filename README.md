@@ -1,20 +1,19 @@
-# politicalcovid19
-Quantifying political influence on COVID-19 fatality in Brazil
-# Mortes Políticas (COVID19) para os Estados
-Rotina para plotagem e análise dos dados relativos à pandemia do novo coronavirus relacionada ao resultado das eleições de 2018 que elegeram Jair Bolsonaro (sem partido) pela legenda 17.
+# Quantifying political influence on COVID-19 fatality in Brazil
+Plotting and analysis rouine for COVID19 vs outcome of 2018 Brazil elections.
 
-Autores: Daniel Felinto, Pedro Carelli, José Dias do Nascimento Jr e Leandro de Almeida
+Authors: Leandro de Almeida, Pedro Carelli, Daniel Felinto and José Dias do Nascimento Jr
+Code: Almeida, L
 
-Autor do código: Almeida, L
+### Data Source
+#### 2018 Elections
 
-### Fonte dos dados
-#### Resultados das eleições
-
-Os dados foram retirados do TSE pelo site Gazeta do Povo e compilados em uma tabela através do link
+THe data was retrieved from TSE using the website "Gazeta do Povo" and compiled at:
 https://especiais.gazetadopovo.com.br/eleicoes/2018/resultados/mapa-eleitoral-de-presidente-por-municipios-2turno/
 
-#### Dados confirmados de Óbitos por COVID19
-Os dados relativos à pandemia foram extraídos da base nacinal wcota disponível através do link
-https://github.com/wcota/covid19br e relacionados por rotina própria (Almeida, L 2020).
+#### COVID19 Deaths confirmed by state
+All cases reported here were confirmed by the health departments of each state, and also obtained by the official platform of the Ministry of Health. The consulted sources are listed at the bottom of the page. All data is available in CSV format on Github: https://github.com/wcota/covid19br
+W. Cota, “Monitoring the number of COVID-19 cases and deaths in brazil at municipal and federative units level”, SciELOPreprints:362 (2020), 10.1590/scielopreprints.362
+
+The fatality data and votes was related in this routine.
 
 # #
