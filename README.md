@@ -14,7 +14,7 @@ Code: Almeida, L
 ### Data Source
 #### 2018 Elections
 
-THe data was retrieved from TSE using the website "Gazeta do Povo" and compiled at:
+The data was retrieved from TSE using the website "Gazeta do Povo" and compiled at:
 https://especiais.gazetadopovo.com.br/eleicoes/2018/resultados/mapa-eleitoral-de-presidente-por-municipios-2turno/
 
 #### COVID19 Deaths confirmed by state
