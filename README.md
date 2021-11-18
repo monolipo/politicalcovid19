@@ -11,6 +11,10 @@ Plotting and analysis rouine for COVID19 vs outcome of 2018 Brazil elections.
 
 Code: Almeida, L
 
+
+![Diagrama_Obitos_Votos_2](https://user-images.githubusercontent.com/30126468/142464341-29da064b-567a-44c8-af31-fe04dc5bfbc1.png)
+
+
 ### Data Source
 #### 2018 Elections
 
